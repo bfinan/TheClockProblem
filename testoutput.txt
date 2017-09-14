@@ -1,0 +1,14 @@
+you@os:~/Documents/TheClockProblem/TheClockProblem$ python timeangle.py
+ERROR
+ERROR
+30.0
+60.0
+ERROR
+180.0
+0.0
+35.49351
+174.9945
+5.49351
+ERROR
+ERROR
+
